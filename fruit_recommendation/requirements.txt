@@ -1,0 +1,5 @@
+Flask
+numpy
+scikit-learn
+mysql-connector-python
+nltk
